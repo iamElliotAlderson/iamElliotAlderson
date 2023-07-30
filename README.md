@@ -1,3 +1,4 @@
+[![MasterHead](https://www.filmandtvnow.com/wp-content/uploads/2016/07/mrrobot-banner.jpg)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Elliot Alderson</h1>
 <h3 align="center">Privacy is Myth!!</h3>
 
@@ -10,7 +11,7 @@
 - 🤝 I’m looking for help with **privacy.py**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">Do not contact
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
