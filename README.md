@@ -1,6 +1,8 @@
 [![MasterHead](https://www.filmandtvnow.com/wp-content/uploads/2016/07/mrrobot-banner.jpg)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Elliot Alderson</h1>
 <h3 align="center">Privacy is Myth!!</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 - 🔭 I’m currently working on **myself.py**
 
